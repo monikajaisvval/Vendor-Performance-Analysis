@@ -47,3 +47,15 @@ Vendor-Performance-Analysis/
 ├── images/                      # Visualizations and screenshots
 ├── README.md
 └── requirements.txt
+---
+
+## Dashboard Preview
+
+![Image](Dashboard__1.png)
+---
+
+## Author
+**Monika Jaiswal**
+- LinkedIn: www.linkedin.com/in/monika-jaisvval
+- Naukri: [https://www.naukri.com/mnjuser/profile?id=&altresid]
+- Email: monikajaisvval@gmail.com
