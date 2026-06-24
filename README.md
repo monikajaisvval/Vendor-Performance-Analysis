@@ -51,7 +51,7 @@ Vendor-Performance-Analysis/
 
 ## Dashboard Preview
 
-![Dash](Dashboard__1.png)
+![Vendor Performance Dashboard](images/Dashboard__1.png)
 ---
 
 ## Author
