@@ -1,0 +1,170 @@
+2026-05-25 20:11:04,737 - INFO - ---------------------Ingestion Complete----------------------
+2026-05-25 20:11:49,099 - INFO - ---------------------Ingestion Complete----------------------
+2026-05-25 20:22:07,346 - INFO - ---------------------Ingestion Complete----------------------
+2026-05-25 20:22:07,942 - INFO - Ingesting begin_inventory.csv in db
+2026-05-25 20:23:00,622 - INFO - ---------------------Ingestion Complete----------------------
+2026-05-25 20:23:01,051 - INFO - Ingesting end_inventory.csv in db
+2026-05-25 20:23:28,060 - INFO - ---------------------Ingestion Complete----------------------
+2026-05-25 20:23:34,603 - INFO - Ingesting purchases.csv in db
+2026-05-25 20:26:32,842 - ERROR - Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2026-05-25 20:26:32,846 - INFO - 
+Total Time Taken: 4.424999038378398 minutes
+2026-05-25 20:37:24,960 - INFO - ---------------------Ingestion Complete----------------------
+2026-05-25 20:37:25,459 - INFO - Ingesting begin_inventory.csv in db
+2026-05-25 20:37:25,460 - ERROR - ingest_db() takes 2 positional arguments but 3 were given
+2026-05-25 20:37:25,460 - INFO - 
+Total Time Taken: 0.008344686031341553 minutes
+2026-05-25 20:40:04,793 - INFO - Ingesting begin_inventory.csv in db
+2026-05-25 20:40:15,947 - INFO - begin_inventory loaded successfully
+2026-05-25 20:40:16,304 - INFO - Ingesting end_inventory.csv in db
+2026-05-25 20:40:26,778 - INFO - end_inventory loaded successfully
+2026-05-25 20:40:33,882 - INFO - Ingesting purchases.csv in db
+2026-05-25 20:43:26,876 - INFO - purchases loaded successfully
+2026-05-25 20:43:27,047 - INFO - Ingesting purchase_prices.csv in db
+2026-05-25 20:43:27,980 - INFO - purchase_prices loaded successfully
+2026-05-25 20:44:05,283 - INFO - Ingesting sales.csv in db
+2026-05-25 20:58:17,754 - INFO - sales loaded successfully
+2026-05-25 20:58:19,119 - INFO - Ingesting vendor_invoice.csv in db
+2026-05-25 20:58:19,732 - INFO - vendor_invoice loaded successfully
+2026-05-25 20:58:19,732 - INFO - ---------------------Ingestion Complete----------------------
+2026-05-25 20:58:19,733 - INFO - Total Time Taken: 18.26 minutes
+2026-05-25 21:27:42,046 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-25 21:27:42,051 - WARNING - No such comm: b54b2887-21e5-4683-89a6-2c8bb3418c6d
+2026-05-25 21:27:42,051 - DEBUG - Current comms: []
+2026-05-25 21:55:14,633 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-25 21:55:14,636 - WARNING - No such comm: 5398757b-9ec5-44ea-ac5b-475f97db408d
+2026-05-25 21:55:14,636 - DEBUG - Current comms: []
+2026-05-25 21:55:47,892 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-25 21:55:47,895 - WARNING - No such comm: 3e0c1524-ef8c-47af-8365-c8c5f1cfb690
+2026-05-25 21:55:47,895 - DEBUG - Current comms: []
+2026-05-26 16:42:48,036 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-26 16:42:48,047 - WARNING - No such comm: 87836287-1a45-4827-ad62-94668bd22212
+2026-05-26 16:42:48,047 - DEBUG - Current comms: []
+2026-05-26 16:42:48,102 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-26 16:42:48,124 - WARNING - No such comm: 169e3a15-26b7-45d8-ace0-4e92069c32b3
+2026-05-26 16:42:48,124 - DEBUG - Current comms: []
+2026-05-26 18:10:18,220 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-26 18:10:18,225 - WARNING - No such comm: 4447ebfc-f3ae-4052-8b48-29faeea07ef2
+2026-05-26 18:10:18,225 - DEBUG - Current comms: []
+2026-05-27 05:43:47,550 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-27 05:43:47,555 - WARNING - No such comm: e7a328ee-f4ae-421d-9c12-abd11bd88753
+2026-05-27 05:43:47,556 - DEBUG - Current comms: []
+2026-05-27 06:00:29,340 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-27 06:00:29,346 - WARNING - No such comm: 350f5927-7d8b-4345-8ac1-1e309f4dd00d
+2026-05-27 06:00:29,347 - DEBUG - Current comms: []
+2026-05-28 22:37:22,484 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-28 22:37:22,491 - WARNING - No such comm: 79b55de5-0078-4c30-bd88-43d8c2a79aca
+2026-05-28 22:37:22,491 - DEBUG - Current comms: []
+2026-06-01 17:36:19,934 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-01 17:36:19,947 - WARNING - No such comm: 7a6767c0-898f-4d43-835c-091511486652
+2026-06-01 17:36:19,947 - DEBUG - Current comms: []
+2026-06-01 17:37:52,022 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-01 17:37:52,026 - WARNING - No such comm: b86f2346-d975-4c4e-8bab-0adcd9df2357
+2026-06-01 17:37:52,026 - DEBUG - Current comms: []
+2026-06-01 17:39:17,526 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-01 17:39:17,529 - WARNING - No such comm: 8d9d86a1-29d8-4dd0-a3d8-080bb006aac2
+2026-06-01 17:39:17,530 - DEBUG - Current comms: []
+2026-06-01 17:40:09,642 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-01 17:40:09,645 - WARNING - No such comm: 27e3e780-ab54-460c-a86d-adcce9ecd880
+2026-06-01 17:40:09,645 - DEBUG - Current comms: []
+2026-06-01 17:41:45,866 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-01 17:41:45,868 - WARNING - No such comm: 2d947672-08b7-4ff8-8000-3ae1c2e27ef6
+2026-06-01 17:41:45,869 - DEBUG - Current comms: []
+2026-06-01 17:43:57,581 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-01 17:43:57,583 - WARNING - No such comm: ec75a791-4f84-47a9-a2a8-7f8ae40324c7
+2026-06-01 17:43:57,583 - DEBUG - Current comms: []
+2026-06-02 08:32:06,608 - INFO - Ingesting begin_inventory.csv in db
+2026-06-02 08:32:32,759 - INFO - begin_inventory loaded successfully
+2026-06-02 08:32:33,510 - INFO - Ingesting end_inventory.csv in db
+2026-06-02 08:32:57,897 - INFO - end_inventory loaded successfully
+2026-06-02 08:33:17,842 - INFO - Ingesting purchases.csv in db
+2026-06-02 08:40:42,007 - INFO - purchases loaded successfully
+2026-06-02 08:40:42,909 - INFO - Ingesting purchase_prices.csv in db
+2026-06-02 08:40:44,822 - INFO - purchase_prices loaded successfully
+2026-06-02 08:42:06,578 - INFO - Ingesting sales.csv in db
+2026-06-02 09:16:28,774 - INFO - sales loaded successfully
+2026-06-02 09:16:31,435 - INFO - Ingesting vendor_invoice.csv in db
+2026-06-02 09:16:32,340 - INFO - vendor_invoice loaded successfully
+2026-06-02 09:16:32,341 - INFO - ---------------------Ingestion Complete----------------------
+2026-06-02 09:16:32,342 - INFO - Total Time Taken: 44.45 minutes
+2026-06-02 09:16:32,419 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-02 09:16:32,425 - WARNING - No such comm: 6153adcd-b8da-493a-a587-f806fe97fc8f
+2026-06-02 09:16:32,426 - DEBUG - Current comms: []
+2026-06-02 09:43:35,833 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-02 09:43:35,843 - WARNING - No such comm: b7cd3169-165d-4aae-83b1-f51026d90d14
+2026-06-02 09:43:35,843 - DEBUG - Current comms: []
+2026-06-02 10:13:52,093 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-02 10:13:52,096 - WARNING - No such comm: d3ad2e0b-a1cf-4e08-bc0a-e007da72d31b
+2026-06-02 10:13:52,097 - DEBUG - Current comms: []
+2026-06-02 10:21:53,841 - INFO - Creating Vendor Summary Table.......
+2026-06-02 10:28:24,564 - INFO - Creating Vendor Summary Table.......
+2026-06-02 10:37:56,719 - INFO - Creating Vendor Summary Table.......
+2026-06-02 19:01:40,678 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-02 19:01:40,691 - WARNING - No such comm: 590c9f55-d8cc-4340-b45b-c6e48432ba96
+2026-06-02 19:01:40,697 - DEBUG - Current comms: []
+2026-06-02 19:01:45,283 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-02 19:01:45,290 - WARNING - No such comm: 80f71671-1a2c-4b97-8024-f800ba436782
+2026-06-02 19:01:45,290 - DEBUG - Current comms: []
+2026-06-02 19:04:29,860 - INFO - Creating Vendor Summary Table.......
+2026-06-02 19:06:06,920 - INFO - Creating Vendor Summary Table.......
+2026-06-02 19:07:44,329 - INFO -    VendorNumber                   VendorName  Brand              Description  \
+0          1128  BROWN-FORMAN CORP             1233  Jack Daniels No 7 Black   
+1          4425        MARTIGNETTI COMPANIES   3405    Tito's Handmade Vodka   
+2         17035  PERNOD RICARD USA             8068         Absolut 80 Proof   
+3          3960  DIAGEO NORTH AMERICA INC      4261   Capt Morgan Spiced Rum   
+4          3960  DIAGEO NORTH AMERICA INC      3545          Ketel One Vodka   
+
+   PurchasePrice  ActualPrice Volume  TotalPurchaseQuantity  \
+0          26.27        36.99   1750               145080.0   
+1          23.19        28.99   1750               164038.0   
+2          18.24        24.99   1750               187407.0   
+3          16.17        22.99   1750               201682.0   
+4          21.89        29.99   1750               138109.0   
+
+   TotalPurchaseDollars  TotalSalesQuantity  TotalSalesDollars  \
+0            3811251.60            142049.0       5.101920e+06   
+1            3804041.22            160247.0       4.819073e+06   
+2            3418303.68            187140.0       4.538121e+06   
+3            3261197.94            200412.0       4.475973e+06   
+4            3023206.01            135838.0       4.223108e+06   
+
+   TotalSalesPrice  TotalExciseTax  FreightCost  
+0        672819.31       260999.20     68601.68  
+1        561512.37       294438.66    144929.24  
+2        461140.15       343854.07    123780.22  
+3        420050.01       368242.80    257032.07  
+4        545778.28       249587.83    257032.07  
+2026-06-02 19:07:44,355 - INFO - Cleaning Data.......
+2026-06-02 19:07:44,427 - INFO -    VendorNumber                VendorName  Brand              Description  \
+0          1128         BROWN-FORMAN CORP   1233  Jack Daniels No 7 Black   
+1          4425     MARTIGNETTI COMPANIES   3405    Tito's Handmade Vodka   
+2         17035         PERNOD RICARD USA   8068         Absolut 80 Proof   
+3          3960  DIAGEO NORTH AMERICA INC   4261   Capt Morgan Spiced Rum   
+4          3960  DIAGEO NORTH AMERICA INC   3545          Ketel One Vodka   
+
+   PurchasePrice  ActualPrice  Volume  TotalPurchaseQuantity  \
+0          26.27        36.99  1750.0               145080.0   
+1          23.19        28.99  1750.0               164038.0   
+2          18.24        24.99  1750.0               187407.0   
+3          16.17        22.99  1750.0               201682.0   
+4          21.89        29.99  1750.0               138109.0   
+
+   TotalPurchaseDollars  TotalSalesQuantity  TotalSalesDollars  \
+0            3811251.60            142049.0       5.101920e+06   
+1            3804041.22            160247.0       4.819073e+06   
+2            3418303.68            187140.0       4.538121e+06   
+3            3261197.94            200412.0       4.475973e+06   
+4            3023206.01            135838.0       4.223108e+06   
+
+   TotalSalesPrice  TotalExciseTax  FreightCost  
+0        672819.31       260999.20     68601.68  
+1        561512.37       294438.66    144929.24  
+2        461140.15       343854.07    123780.22  
+3        420050.01       368242.80    257032.07  
+4        545778.28       249587.83    257032.07  
+2026-06-02 19:07:44,443 - INFO - Ingesting Data.......
+2026-06-02 19:07:46,274 - INFO - vendor_sales_summary loaded successfully
+2026-06-02 19:07:46,275 - INFO - Completed
+2026-06-02 19:19:36,664 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-02 19:19:36,671 - WARNING - No such comm: bed93211-a888-4143-bd21-69bc1e9716ba
+2026-06-02 19:19:36,672 - DEBUG - Current comms: []
